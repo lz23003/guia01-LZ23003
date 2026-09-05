@@ -6,5 +6,5 @@
 
 Integrantes:
 - William Abraham Lopez Zuniga, LZ23003
-- nombre completo, carnet
+- Harry Andres Garcia Peña, GG22019
 - nombre completo, carnet
