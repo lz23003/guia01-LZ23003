@@ -5,6 +5,6 @@
 ## SOLUCION GUIA #1
 
 Integrantes:
-- nombre completo, carnet
+- William Abraham Lopez Zuniga, LZ23003
 - nombre completo, carnet
 - nombre completo, carnet
