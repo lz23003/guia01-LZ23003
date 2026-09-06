@@ -7,4 +7,5 @@
 Integrantes:
 - William Abraham Lopez Zuniga, LZ23003
 - Harry Andres Garcia Peña, GG22019
-- nombre completo, carnet
+- Martín Alejandro Flores Enamorado, FE23004
+
